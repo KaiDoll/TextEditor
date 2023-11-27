@@ -36,24 +36,21 @@ SO THAT I can reliably retrieve them for later use
 ## Technologies Used
 
 - JavaScript
-- Node.js
-- Sequelize
 - HTML
-- Bootstrap CSS
-- Handlebars
+- ExpressJS
+- Webpack
+
 
 ## References
 
-- UT Austin Bootcamp Curriculum: Module 14 (MVC)
-- DOTENV v.8.2.0: https://www.npmjs.com/package/dotenv
+- UT Austin Bootcamp Curriculum: Module 19
 - Express.JS v.4.17.1: https://expressjs.com/en/starter/installing.html
-- Handlebars.JS v.5.2.0: https://handlebarsjs.com/installation/
-- MYSQL2 v.2.2.5: https://www.npmjs.com/package/mysql2
-- Sequelize v.6.3.5: https://sequelize.org/docs/v6/getting-started/
+- Webpack: https://webpack.js.org/ 
+
 
 ## Links
 
-### <a href="https://github.com/KaiDoll/TechBlog">GitHub Repository</a>
+### <a href="https://github.com/KaiDoll/TextEditor">GitHub Repository</a>
 
 ### <a href="https://techblogfourteen-7c87d84e74e7.herokuapp.com/login">Live Site</a>
 
