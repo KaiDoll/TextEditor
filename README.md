@@ -52,14 +52,14 @@ SO THAT I can reliably retrieve them for later use
 
 ### <a href="https://github.com/KaiDoll/TextEditor">GitHub Repository</a>
 
-### <a href="https://techblogfourteen-7c87d84e74e7.herokuapp.com/login">Live Site</a>
+### <a href="https://texteditoroffline-ddff2d2a32a6.herokuapp.com/">Live Site</a>
 
 
 ## License
 
 <img src='https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge'>
 
-Copyright 2023 - Tech Blog
+Copyright 2023 - TextEditor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
